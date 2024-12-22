@@ -37,6 +37,5 @@ This project was a fun and insightful way to combine my love for Taylor Swift wi
 
 - `tsrankings.csv`: The dataset with my rankings of each Taylor Swift song across the 7 metrics.
 - `TaylorSwiftSideProject.ipynb`: The Python Jupyter notebook with the analysis, including the ANOVA test.
-- `visualizations/`: Folder containing the Tableau visualizations and dashboard file.
-
+- `TaylorSwiftRankingsDashboard.twbx`: A Tableau workbook file of the dashboard.
 Feel free to explore the code and analysis, and let me know if you have any questions!
