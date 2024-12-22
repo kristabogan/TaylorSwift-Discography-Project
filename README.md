@@ -21,7 +21,7 @@ To wrap up my analysis, I ran an **ANOVA** to determine if there were any signif
 
 ### Interactive Dashboard
 
-Instead of just showing the results through static visuals, I created an [interactive Tableau dashboard](https://public.tableau.com/app/profile/krista.bogan/viz/TaylorSwiftRankingsDashboard/Dashboard1)] that allows users to explore the data and insights in real-time. The dashboard includes:
+Instead of just showing the results through static visuals, I created an [interactive Tableau dashboard](https://public.tableau.com/app/profile/krista.bogan/viz/TaylorSwiftRankingsDashboard/Dashboard1) that allows users to explore the data and insights in real-time. The dashboard includes:
 - A song ranking comparison across the 7 metrics
 - A detailed breakdown of my favorite albums and songs
 - A view of how each album compares to others in terms of my rankings
